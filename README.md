@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 
 # About ME 💬 :
 
-### - I'm (2🤔) years  , Learning Cyber Security, Gaming Hacking , From 🇯🇴
+### - I'm (2#🤔) years  , Learning Cyber Security, Gaming Hacking , From 🇯🇴
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://i.pinimg.com/originals/ea/70/6a/ea706ad43feb062064bcbd6013761e74.gif">
 
 ### - Learning :
 - ✨ Cyber Security
