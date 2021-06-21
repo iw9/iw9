@@ -1,73 +1,29 @@
-### Hi there 👋
+### Hi there, I'm A39aR1337 👋
 
-<!--
-**iw9/iw9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a Student, Developer ..
 
 
-# About ME 💬 :
+### Languages and Tools:
 
-### - I'm (2#🤔) years  , Learning Cyber Security, Gaming Hacking , From 🇯🇴
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+<img align="left" alt="SASS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />
+<img align="left" alt="JAVASCRIPT" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img align="left" alt="VUEJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<img align="left" alt="LARAVEL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" />
+<img align="left" alt="NODEJS" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="NPM" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" />
+<img align="left" alt="MYSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
+<img align="left" alt="GITHUB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />
+<img align="left" alt="GIT" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img align="left" alt="NGINX" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" />
+<br />
+<br />
 
+---
 
-### - Learning :
-- ✨ Cyber Security
-- ✨ HardWare
-
-### - Hobbies : 
-- ✨ Car Machnies..
-
-</br>
-</br>
-</br>
-
-
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/csharp_dotnet.svg" alt="csharp"  width="100" hight="50">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg" alt="js" width="100" hight="50">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/php.svg" alt="php" width="100" hight="50">
-</br>
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio.svg" alt="vs" width="270" hight="50">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/pc.svg" alt="pc" width="100" hight="50">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/raspberrypi.svg" alt="ras" width="100" hight="50">
-<img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/misc/security.svg" alt="sec" width="100" hight="50">
-</p>
-</br>
-</br>
-</br>
-
-
-
-# Contact Me :
-
-<p>
- </br>
-
-
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=iw9&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-
-*************
+### :zap: GitHub Stats:
+<img align="left" alt="A39aR's GitHub Stats" src="https://github-readme-stats-cyan-nine.vercel.app/api/top-langs?username=iw9&show_icons=true&hide_border=false&count_private=true&theme=tokyonight" />
+<img align="left" alt="A39aR's GitHub Stats" src="https://github-readme-stats-cyan-nine.vercel.app/api?username=iw9&show_icons=true&hide_border=false&count_private=true&theme=tokyonight" />
