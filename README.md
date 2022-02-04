@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23A4834D&lines=Hey+%F0%9F%91%8B%2C+I%60m+A39aR+....!;Nice+to+see+you+..."/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23A4834D&lines=Hey+%F0%9F%91%8B%2C+I%60m+A39aR+....!;Nice+to+see+you+...;Melitary+1337+Group+CEO+🤞"/>
 </p>
 
-## I'm a Student, Developer ..
 
-## #ML 1337 Group CEO 🤞
 
 ### Languages and Tools:
 
@@ -26,7 +24,3 @@
 <br />
 
 ---
-
-### :zap: GitHub Stats:
-<img align="left" alt="A39aR's GitHub Stats" src="https://github-readme-stats-cyan-nine.vercel.app/api/top-langs?username=iw9&show_icons=true&hide_border=false&count_private=true&theme=tokyonight" />
-<img align="left" alt="A39aR's GitHub Stats" src="https://github-readme-stats-cyan-nine.vercel.app/api?username=iw9&show_icons=true&hide_border=false&count_private=true&theme=tokyonight" />
