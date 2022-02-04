@@ -5,7 +5,7 @@
 ## #ML 1337 Group CEO 🤞
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23A4834D&lines=Hey+%F0%9F%91%8B%2C+I%60m+rn0x+....!;Nice+to+see+you+..."/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23A4834D&lines=Hey+%F0%9F%91%8B%2C+I%60m+A39aR+....!;Nice+to+see+you+..."/>
 </p>
 
 ### Languages and Tools:
